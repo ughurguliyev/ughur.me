@@ -221,16 +221,15 @@ body {
 }
 
 .site-title {
-    font-size: 5rem;
+    font-size: 5.5rem;
 }
 
-.job-description
- {
-    font-size: 3.5rem;
+.job-description {
+    font-size: 2.3rem;
 }
 
 .contact {
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 a {
